@@ -1,0 +1,12 @@
+---
+galaxy_info:
+  role_name: role name
+  namespace: fred_drake
+  author: Fred Drake
+  description: Role Description
+  company: None
+  license: MIT
+
+  min_ansible_version: "2.1"
+  galaxy_tags: []
+dependencies: []
