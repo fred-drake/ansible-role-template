@@ -1,12 +1,14 @@
 ---
 galaxy_info:
-  role_name: role name
+  role_name: shell
   namespace: fred_drake
   author: Fred Drake
-  description: Role Description
+  description: Sets shell
   company: None
   license: MIT
 
   min_ansible_version: "2.1"
+
   galaxy_tags: []
+
 dependencies: []

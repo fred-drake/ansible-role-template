@@ -1,2 +1,2 @@
 ---
-## Default variables here
+shell_executable_path: /bin/bash

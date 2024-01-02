@@ -1,0 +1,11 @@
+---
+- name: Prepare
+  hosts: all
+  gather_facts: false
+  vars:
+    remote_tmp: ~/.ansible/tmp
+  tasks:
+    - name: Create user
+      ansible.builtin.user:
+        name: fdrake
+        state: present
