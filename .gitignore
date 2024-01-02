@@ -8,7 +8,6 @@
 galaxy_collections/
 id_ansible
 **/*.tmp.yml
-fred_drake.*/
 
 # Trash
 .DS_Store

@@ -1,9 +1,9 @@
 ---
 galaxy_info:
-  role_name: shell
-  namespace: fred_drake
+  role_name: ROLE_NAME_HERE
+  namespace: NAMESPACE_HERE
   author: Fred Drake
-  description: Sets shell
+  description: DESCRIPTION_HERE
   company: None
   license: MIT
 
